@@ -1,0 +1,439 @@
+{
+  "3a91c0e2": {
+    "id": "3a91c0e2",
+    "name": "Maya Okafor",
+    "firstname": "Maya",
+    "lastname": "Okafor",
+    "email": "maya.okafor@example.com",
+    "headline": "Support Operations Manager",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/3a91c0e2",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    },
+    "summary": "I'm Maya, and I like support teams that fix the cause instead of answering the same ticket forty times. Most of my work has been on the tooling side of support at B2B software companies.",
+    "cover_letter": "Payroll support is the one place where a slow answer has a real cost on Friday afternoon, and I have spent the last two years in exactly that.",
+    "experience_entries": [
+      {
+        "title": "Support Operations Manager",
+        "company": "Paystack Ridge (payroll SaaS)",
+        "summary": "<ul><li>Own the Zendesk instance for a 9 person support team: triggers, SLAs, routing by plan tier and the macro library (140 macros, audited quarterly).</li><li>Built the escalation path to engineering, cut median time to engineering response from 2 days to 5 hours.</li><li>Pull weekly backlog and CSAT reports myself in SQL from the Zendesk export.</li></ul>",
+        "start_date": "2024-03-01",
+        "end_date": null,
+        "current": true
+      },
+      {
+        "title": "Senior Support Specialist",
+        "company": "Tallyroll",
+        "summary": "<ul><li>Tier 2 support for a time-tracking product, led the weekend shift of 3 agents.</li></ul>",
+        "start_date": "2021-06-01",
+        "end_date": "2024-02-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Zendesk"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Escalation management"
+      },
+      {
+        "name": "Macros"
+      }
+    ],
+    "education_entries": [
+      {
+        "degree": "B.A. Communications",
+        "school": "Ohio State University",
+        "start_date": "2014-09-01",
+        "end_date": "2018-06-01"
+      }
+    ],
+    "answers": [
+      {
+        "question": {
+          "body": "Will you now or in the future require visa sponsorship to work in the US?"
+        },
+        "answer": {
+          "body": "No"
+        }
+      },
+      {
+        "question": {
+          "body": "This role works US Eastern or Central business hours. Can you work those hours?"
+        },
+        "answer": {
+          "body": "Yes, I am on Eastern time."
+        }
+      }
+    ],
+    "location": {
+      "location_str": "Columbus, Ohio",
+      "country": "USA"
+    },
+    "phone": "(614) 555-0142"
+  },
+  "5bd27f14": {
+    "id": "5bd27f14",
+    "name": "Daniel Reyes",
+    "firstname": "Daniel",
+    "lastname": "Reyes",
+    "email": "d.reyes@example.com",
+    "headline": "Head of Customer Support",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/5bd27f14",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    },
+    "summary": "Support leader with six years in SaaS. I built the support function at an HR platform from one person to a team of seven.",
+    "experience_entries": [
+      {
+        "title": "Head of Customer Support",
+        "company": "Crewbase (HR software)",
+        "summary": "<ul><li>Hired and managed a team of 7 agents across two shifts.</li><li>Migrated the team from shared inbox to Intercom, wrote the routing rules and the first 60 macros.</li></ul>",
+        "start_date": "2022-01-01",
+        "end_date": null,
+        "current": true
+      },
+      {
+        "title": "Customer Support Specialist",
+        "company": "Ledgerline",
+        "summary": "Answered billing and accounting questions for small business customers.",
+        "start_date": "2020-02-01",
+        "end_date": "2021-12-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Intercom"
+      },
+      {
+        "name": "Team leadership"
+      },
+      {
+        "name": "Hiring"
+      }
+    ],
+    "answers": [
+      {
+        "question": {
+          "body": "Will you now or in the future require visa sponsorship to work in the US?"
+        },
+        "answer": {
+          "body": "Yes, I would need H-1B sponsorship to work in the US."
+        }
+      },
+      {
+        "question": {
+          "body": "This role works US Eastern or Central business hours. Can you work those hours?"
+        },
+        "answer": {
+          "body": "Yes"
+        }
+      }
+    ]
+  },
+  "7e04a9b3": {
+    "id": "7e04a9b3",
+    "name": "Priya Natarajan",
+    "firstname": "Priya",
+    "lastname": "Natarajan",
+    "email": "priya.n@example.com",
+    "headline": "Store Manager",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/7e04a9b3",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    },
+    "summary": "Customer-focused manager with a track record of running busy stores and keeping customers happy.",
+    "experience_entries": [
+      {
+        "title": "Store Manager",
+        "company": "Hartwell Home Goods",
+        "summary": "<ul><li>Managed a store of 22 staff, scheduling, and in-store customer complaints.</li></ul>",
+        "start_date": "2022-05-01",
+        "end_date": null,
+        "current": true
+      },
+      {
+        "title": "Call Center Representative",
+        "company": "First Prairie Bank",
+        "summary": "Handled inbound calls about card and account questions.",
+        "start_date": "2021-03-01",
+        "end_date": "2022-04-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Customer service"
+      },
+      {
+        "name": "Scheduling"
+      },
+      {
+        "name": "Team management"
+      }
+    ],
+    "answers": [
+      {
+        "question": {
+          "body": "Will you now or in the future require visa sponsorship to work in the US?"
+        },
+        "answer": {
+          "body": "No"
+        }
+      },
+      {
+        "question": {
+          "body": "This role works US Eastern or Central business hours. Can you work those hours?"
+        },
+        "answer": {
+          "body": "Yes"
+        }
+      }
+    ]
+  },
+  "9c6e12d8": {
+    "id": "9c6e12d8",
+    "name": "Tom Lindqvist",
+    "firstname": "Tom",
+    "lastname": "Lindqvist",
+    "email": "tom.lindqvist@example.com",
+    "headline": "Customer Success Manager",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/9c6e12d8",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    },
+    "summary": "Customer success manager for mid-market SaaS accounts. I care about onboarding that sticks.",
+    "experience_entries": [
+      {
+        "title": "Customer Success Manager",
+        "company": "Formstack Labs",
+        "summary": "<ul><li>Managed a book of 60 mid-market accounts: onboarding, QBRs, renewals.</li><li>Answered customer questions in Intercom when they came through the account channel.</li></ul>",
+        "start_date": "2022-08-01",
+        "end_date": null,
+        "current": true
+      },
+      {
+        "title": "Account Coordinator",
+        "company": "Brightwave Media",
+        "summary": "Coordinated client deliverables for an ad agency.",
+        "start_date": "2020-06-01",
+        "end_date": "2022-07-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Intercom"
+      },
+      {
+        "name": "Salesforce"
+      },
+      {
+        "name": "Onboarding"
+      }
+    ],
+    "answers": [
+      {
+        "question": {
+          "body": "Will you now or in the future require visa sponsorship to work in the US?"
+        },
+        "answer": {
+          "body": "No"
+        }
+      },
+      {
+        "question": {
+          "body": "This role works US Eastern or Central business hours. Can you work those hours?"
+        },
+        "answer": {
+          "body": "Yes, Central time"
+        }
+      }
+    ]
+  },
+  "b20f5a67": {
+    "id": "b20f5a67",
+    "name": "Grace Ahn",
+    "firstname": "Grace",
+    "lastname": "Ahn",
+    "email": "grace.ahn@example.com",
+    "headline": null,
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/b20f5a67",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    },
+    "summary": null,
+    "experience_entries": [],
+    "skills": [],
+    "answers": [],
+    "resume_url": "https://larchwood-payroll.workable.com/resumes/b20f5a67.pdf"
+  },
+  "c41d8e90": {
+    "id": "c41d8e90",
+    "name": "Samuel Brooks",
+    "firstname": "Samuel",
+    "lastname": "Brooks",
+    "email": "sam.brooks@example.com",
+    "headline": "Support Team Lead",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/c41d8e90",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    },
+    "summary": "Team lead for a support queue at a fintech.",
+    "experience_entries": [
+      {
+        "title": "Support Team Lead",
+        "company": "Coinwell",
+        "summary": "Led 5 agents.",
+        "start_date": "2021-01-01",
+        "end_date": null,
+        "current": true
+      }
+    ],
+    "answers": [
+      {
+        "question": {
+          "body": "Will you now or in the future require visa sponsorship to work in the US?"
+        },
+        "answer": {
+          "body": "No"
+        }
+      },
+      {
+        "question": {
+          "body": "This role works US Eastern or Central business hours. Can you work those hours?"
+        },
+        "answer": {
+          "body": "Yes"
+        }
+      }
+    ]
+  },
+  "d8f3b2c5": {
+    "id": "d8f3b2c5",
+    "name": "Rosa Delgado",
+    "firstname": "Rosa",
+    "lastname": "Delgado",
+    "email": "rosa.delgado@example.com",
+    "headline": "Support Operations Specialist",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/d8f3b2c5",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    },
+    "summary": "I taught middle school math for eleven years before moving into software support. Teaching made me good at explaining the same thing five ways, which is most of support.",
+    "experience_entries": [
+      {
+        "title": "Support Operations Specialist",
+        "company": "Brightledger (payroll and benefits software)",
+        "summary": "<ul><li>Run the Freshdesk setup for a 12 person support team: automations, SLA policies, ticket fields and the macro library.</li><li>Own the year-end tax form escalation process, the busiest two weeks of our year.</li><li>Wrote 80 help center articles, which cut W-2 tickets by a third.</li><li>Write my own SQL against the support data warehouse for the monthly ops review.</li></ul>",
+        "start_date": "2022-11-01",
+        "end_date": null,
+        "current": true
+      },
+      {
+        "title": "Customer Support Associate",
+        "company": "Brightledger (payroll and benefits software)",
+        "summary": "Answered payroll run and direct deposit tickets.",
+        "start_date": "2021-07-01",
+        "end_date": "2022-10-01"
+      },
+      {
+        "title": "Math Teacher",
+        "company": "Lakeview Unified School District",
+        "summary": "Taught 7th and 8th grade math.",
+        "start_date": "2007-08-01",
+        "end_date": "2018-06-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Freshdesk"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Knowledge base"
+      },
+      {
+        "name": "Payroll"
+      }
+    ],
+    "education_entries": [
+      {
+        "degree": "B.S. Mathematics Education",
+        "school": "New Mexico State University",
+        "start_date": "2003-08-01",
+        "end_date": "2007-05-01"
+      }
+    ],
+    "answers": [
+      {
+        "question": {
+          "body": "Will you now or in the future require visa sponsorship to work in the US?"
+        },
+        "answer": {
+          "body": "No"
+        }
+      },
+      {
+        "question": {
+          "body": "This role works US Eastern or Central business hours. Can you work those hours?"
+        },
+        "answer": {
+          "body": "Yes. I am in Denver, so Central hours are an hour shift and fine."
+        }
+      }
+    ]
+  }
+}

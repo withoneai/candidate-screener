@@ -1,0 +1,28 @@
+{
+  "name": "candidate-screener",
+  "version": "1.0.0",
+  "description": "An AI screener for inbound applicants: it reads each new Workable candidate blind (no name, photo, contact or school), checks them against a role brief you wrote in one markdown file, and leaves the reasoning on the candidate with every claim quoted from the profile. Built on One.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/check.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test src/*.test.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@withone/sdk": "^0.4.0",
+    "dotenv": "^16.4.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}

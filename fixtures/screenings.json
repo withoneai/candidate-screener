@@ -1,0 +1,152 @@
+{
+  "3a91c0e2": {
+    "candidateId": "3a91c0e2",
+    "mustHaves": [
+      {
+        "requirement": "3+ years in support at a software company",
+        "status": "met",
+        "evidence": "Most of my work has been on the tooling side of support at B2B software companies."
+      },
+      {
+        "requirement": "Owned a queue, team, or support process",
+        "status": "met",
+        "evidence": "Built the escalation path to engineering, cut median time to engineering response from 2 days to 5 hours."
+      },
+      {
+        "requirement": "Help desk tool automation beyond answering tickets",
+        "status": "met",
+        "evidence": "Own the Zendesk instance for a 9 person support team: triggers, SLAs, routing by plan tier and the macro library (140 macros, audited quarterly)."
+      }
+    ],
+    "niceToHaves": [
+      "Payroll software experience",
+      "SQL, pulls own reports"
+    ],
+    "dealbreaker": {
+      "triggered": false,
+      "quote": ""
+    },
+    "recommendation": "advance",
+    "reasoning": "Over five years in support at software companies (payroll SaaS and time-tracking), owns the Zendesk instance and built the engineering escalation path. Brings payroll domain experience and SQL reporting. No dealbreakers in the application answers.",
+    "email": "Hi {{first_name}},\n\nThank you for applying for the Support Operations Lead role. The team was especially interested in how you built the escalation path to engineering and cut median engineering response time from 2 days to 5 hours, since that is exactly the kind of problem our payroll customers feel.\n\nWe would love to set up a 30 minute intro call with the hiring manager. Could you send two or three times that work for you next week?\n\nBest,\nThe hiring team"
+  },
+  "5bd27f14": {
+    "candidateId": "5bd27f14",
+    "mustHaves": [
+      {
+        "requirement": "3+ years in support at a software company",
+        "status": "met",
+        "evidence": "Support leader with six years in SaaS."
+      },
+      {
+        "requirement": "Owned a queue, team, or support process",
+        "status": "met",
+        "evidence": "Hired and managed a team of 7 agents across two shifts."
+      },
+      {
+        "requirement": "Help desk tool automation beyond answering tickets",
+        "status": "met",
+        "evidence": "Migrated the team from shared inbox to Intercom, wrote the routing rules and the first 60 macros."
+      }
+    ],
+    "niceToHaves": [
+      "HR software experience",
+      "Accounting/billing software support experience"
+    ],
+    "dealbreaker": {
+      "triggered": true,
+      "quote": "Yes, I would need H-1B sponsorship to work in the US."
+    },
+    "recommendation": "decline",
+    "reasoning": "Strong profile that meets all three must-haves, but the candidate's own answer states they need H-1B sponsorship, which this role cannot provide. Only revisit if the sponsorship policy for this role changes.",
+    "email": "Hi {{first_name}},\n\nThank you for your interest in the Support Operations Lead role and for taking the time to apply. We are moving forward with other candidates for this role.\n\nWe want to be plain about the reason: we are not able to sponsor visas for this position, and your application noted that you would need sponsorship. This decision was not about your experience, which we enjoyed reading about. We wish you all the best in your search.\n\nWarmly,\nThe hiring team"
+  },
+  "7e04a9b3": {
+    "candidateId": "7e04a9b3",
+    "mustHaves": [
+      {
+        "requirement": "3+ years in support at a software company",
+        "status": "not_met",
+        "evidence": "Store Manager at Hartwell Home Goods (4 years 5 months, current)"
+      },
+      {
+        "requirement": "Owned a queue, team, or support process",
+        "status": "met",
+        "evidence": "Managed a store of 22 staff, scheduling, and in-store customer complaints."
+      },
+      {
+        "requirement": "Help desk tool automation beyond answering tickets",
+        "status": "unclear",
+        "evidence": ""
+      }
+    ],
+    "niceToHaves": [],
+    "dealbreaker": {
+      "triggered": false,
+      "quote": ""
+    },
+    "recommendation": "decline",
+    "reasoning": "Every role listed is outside software (retail store management and a bank call center), so the software support experience must-have is clearly not met. No help desk tooling is mentioned. A reviewer who counts retail complaint handling as support could move this to hold, but there is still no software experience.",
+    "email": "Hi {{first_name}},\n\nThank you for applying for the Support Operations Lead role and for your interest in joining us. After reviewing applications, we are moving forward with other candidates for this role.\n\nWe appreciate the time you put into applying and wish you the very best in your search.\n\nWarmly,\nThe hiring team"
+  },
+  "9c6e12d8": {
+    "candidateId": "9c6e12d8",
+    "mustHaves": [
+      {
+        "requirement": "3+ years in support at a software company",
+        "status": "unclear",
+        "evidence": "Customer Success Manager at Formstack Labs (4 years 2 months, current)"
+      },
+      {
+        "requirement": "Owned a queue, team, or support process",
+        "status": "unclear",
+        "evidence": ""
+      },
+      {
+        "requirement": "Help desk tool automation beyond answering tickets",
+        "status": "unclear",
+        "evidence": "Answered customer questions in Intercom when they came through the account channel."
+      }
+    ],
+    "niceToHaves": [],
+    "dealbreaker": {
+      "triggered": false,
+      "quote": ""
+    },
+    "recommendation": "hold",
+    "reasoning": "Four plus years at a SaaS company, but in customer success (onboarding, QBRs, renewals) rather than clearly in support, and no evidence of owning a support queue or process. Intercom use is described only as answering questions, not automation. A recruiter should check whether the role included support ownership or Intercom configuration.",
+    "email": ""
+  },
+  "d8f3b2c5": {
+    "candidateId": "d8f3b2c5",
+    "mustHaves": [
+      {
+        "requirement": "3+ years in support at a software company",
+        "status": "met",
+        "evidence": "Support Operations Specialist at Brightledger (payroll and benefits software) (3 years 11 months, current)"
+      },
+      {
+        "requirement": "Owned a queue, team, or support process",
+        "status": "met",
+        "evidence": "Own the year-end tax form escalation process, the busiest two weeks of our year."
+      },
+      {
+        "requirement": "Help desk tool automation beyond answering tickets",
+        "status": "met",
+        "evidence": "Run the Freshdesk setup for a 12 person support team: automations, SLA policies, ticket fields and the macro library."
+      }
+    ],
+    "niceToHaves": [
+      "Payroll and benefits software experience",
+      "Writes own SQL",
+      "Built help center content (80 articles)"
+    ],
+    "dealbreaker": {
+      "triggered": false,
+      "quote": ""
+    },
+    "recommendation": "advance",
+    "reasoning": "Over five years of support at a payroll and benefits software company, runs the Freshdesk automation setup and owns the year-end tax form escalation process. Hits all three nice-to-haves: payroll domain, SQL, and a help center that cut W-2 tickets by a third. No dealbreakers.",
+    "email": "Hi {{first_name}},\n\nThank you for applying for the Support Operations Lead role. The team was really struck by the 80 help center articles you wrote that cut W-2 tickets by a third, along with your ownership of the year-end tax form escalation process.\n\nWe would love to set up a 30 minute intro call with the hiring manager. Could you send two or three times that work for you next week?\n\nBest,\nThe hiring team"
+  }
+}

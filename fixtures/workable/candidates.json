@@ -1,0 +1,173 @@
+[
+  {
+    "id": "3a91c0e2",
+    "name": "Maya Okafor",
+    "firstname": "Maya",
+    "lastname": "Okafor",
+    "email": "maya.okafor@example.com",
+    "headline": "Support Operations Manager",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/3a91c0e2",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "5bd27f14",
+    "name": "Daniel Reyes",
+    "firstname": "Daniel",
+    "lastname": "Reyes",
+    "email": "d.reyes@example.com",
+    "headline": "Head of Customer Support",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/5bd27f14",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "7e04a9b3",
+    "name": "Priya Natarajan",
+    "firstname": "Priya",
+    "lastname": "Natarajan",
+    "email": "priya.n@example.com",
+    "headline": "Store Manager",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/7e04a9b3",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "9c6e12d8",
+    "name": "Tom Lindqvist",
+    "firstname": "Tom",
+    "lastname": "Lindqvist",
+    "email": "tom.lindqvist@example.com",
+    "headline": "Customer Success Manager",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/9c6e12d8",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "b20f5a67",
+    "name": "Grace Ahn",
+    "firstname": "Grace",
+    "lastname": "Ahn",
+    "email": "grace.ahn@example.com",
+    "headline": null,
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/b20f5a67",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "c41d8e90",
+    "name": "Samuel Brooks",
+    "firstname": "Samuel",
+    "lastname": "Brooks",
+    "email": "sam.brooks@example.com",
+    "headline": "Support Team Lead",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/c41d8e90",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "d8f3b2c5",
+    "name": "Rosa Delgado",
+    "firstname": "Rosa",
+    "lastname": "Delgado",
+    "email": "rosa.delgado@example.com",
+    "headline": "Support Operations Specialist",
+    "stage": "applied",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/d8f3b2c5",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "e17b0d42",
+    "name": "Chris Vale",
+    "firstname": "Chris",
+    "lastname": "Vale",
+    "email": "chris.vale@example.com",
+    "headline": "Support Agent",
+    "stage": "applied",
+    "disqualified": true,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/e17b0d42",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  },
+  {
+    "id": "f06c3a19",
+    "name": "Lena Fischer",
+    "firstname": "Lena",
+    "lastname": "Fischer",
+    "email": "lena.f@example.com",
+    "headline": "Support Lead",
+    "stage": "phone-screen",
+    "disqualified": false,
+    "profile_url": "https://larchwood-payroll.workable.com/backend/jobs/61f2a0/candidates/f06c3a19",
+    "job": {
+      "shortcode": "LARCH014",
+      "title": "Support Operations Lead"
+    },
+    "account": {
+      "subdomain": "larchwood-payroll",
+      "name": "Larchwood Payroll"
+    }
+  }
+]
